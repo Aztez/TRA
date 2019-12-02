@@ -9,7 +9,7 @@ the words are
 
 herman, melville’s, book, moby, dick, starts, as, we, all, know, with, the, sentence, call, me, and ishmael
 
-The name of the text files are given as input from the user. The program prints from the first file the 50 first different words that do not occur in the second file. The words are printed in the order that they occur in the first file.
+The name of the text files are given as input from the user. The program prints from the first file the 50 first different words that do not occur in the second file. The words are printed in the order that they occur in the first file. Some example txt files are provided in the src folder.
 
 
 The contents of the course:
