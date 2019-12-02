@@ -1,4 +1,4 @@
-# TRA
+# data-structures-and-algorithms
 
 This is repository for data structures and algorithms course work done with C. The algorith compares the vocabulary of two large text files by finding the 50 first different words from one file that do not occur in the second file. A continuous string of characters a..z and A..Z, with possible apostrophes ’, is considered a word. Words with uppercase and lowercase letters are considered
 equal. For example, in the text
